@@ -1,0 +1,44 @@
+section {
+    height: 500px;
+    background-color: whitesmoke;
+    border: solid black 1px;
+}
+
+.eka {
+    background-color: #1c1d25;
+    height: 100vh;
+    color: wheat;
+    font-size: 30px;
+}
+
+footer{
+    height: 400px;
+    background-color: black;
+}
+
+nav{
+    display: flex;
+    justify-content:  space-between;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    width: 400px;
+    justify-content: space-around;
+    font-size: 30px;
+}
+
+li{
+    /*width: 200px;*/
+    text-decoration: none;
+}
+
+h1{
+    font-size: 70px;
+}
+
+.toka{
+    margin-left: 30px;
+}
+
